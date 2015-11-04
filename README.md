@@ -1,3 +1,2 @@
 # hello-world
-Repository
-Checking the repository
+Updated repository
